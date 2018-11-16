@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+
+    <string name="payment">enter your bill amount here</string>
+    <string name="TipCalc">CALCULATE</string>
+    <string name="tippercent">Move SeekBar to Add Tip Percentage</string>
+</resources>
